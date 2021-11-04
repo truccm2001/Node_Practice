@@ -1,0 +1,7 @@
+1. NodeJs is the server side language.
+2. CommonJS, every file is module (by default)
+3. Modules - Encapsulated code (only share minimum) => the code is
+more origanized and structured
+4. Common JS vs Vanilla Js
+5. export module by syntax:
+module.exports = {list of things to export}
