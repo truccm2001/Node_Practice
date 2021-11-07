@@ -5,3 +5,11 @@ more origanized and structured
 4. Common JS vs Vanilla Js
 5. export module by syntax:
 module.exports = {list of things to export}
+6. Build-in module: Os, path, fs, http
+7. 2 ways of using module
+ex1:
+    const fs = require('fs');
+    fs.readFilteSync;
+    fs.writeFileSync;
+ex2:
+const {readFilteSync, writeFileSync} = require('fs');
