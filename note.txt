@@ -14,3 +14,8 @@ ex1:
 ex2:
 const {readFilteSync, writeFileSync} = require('fs');
 8. Xem lại fs-module sau;
+9. Callback Hell, also known as Pyramid of Doom, is an anti-pattern seen
+in code of asynchronous programming. It is a slang term used to describe and
+unwieldy number of nested “if” statements or functions. If you are not
+expecting your application logic to get too complex, a few callbacks seem
+harmless
