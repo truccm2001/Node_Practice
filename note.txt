@@ -13,3 +13,4 @@ ex1:
     fs.writeFileSync;
 ex2:
 const {readFilteSync, writeFileSync} = require('fs');
+8. Xem lại fs-module sau;
